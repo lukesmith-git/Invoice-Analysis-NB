@@ -8,8 +8,7 @@ culminated in April with over half of the 1000+ tickets being flagged. I was abl
 spreadsheet showing the drivers/trucks that offended the most often and most severely. Finally, 
 I was able to show that the action taken by the company in May was effective in reducing both the 
 frequency and severity of such tickets. This information was presented directly to the CEO and upper 
-management, and it was determined that no further action was necessary at the time, but that they would 
-be updating systems to keep better track of such things should a problem arise.
+management, and it was determined that no further action was necessary at the time.
 
 ## NB
 This contains the anonymized analysis notebook only, the web scraping and other relevant code contains sensitive informtion that cannot be shared.
